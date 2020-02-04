@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png)
 # Make-a-Image-Hosting-Service-for-free
 ![](https://img.shields.io/badge/Platform-macOS%20%26%20Windows%20%26%20Linux-green)
 
@@ -31,4 +32,4 @@ macOS版在安装完成之后不会弹出软件（Windows会），会出现在�
 ![](https://raw.githubusercontent.com/LengMingxuan/MyIMS/master/img/%E6%88%AA%E5%B1%8F2020-02-04%E4%B8%8B%E5%8D%889.20.47.png)
 
 
->Tips：快捷键：ctrl(⌘Command)+shift+P
+>Tips：快捷键：ctrl(⌘Command)+shift+P可以快速上传电脑剪贴板内的图片并复制Markdown格式的返回语句
